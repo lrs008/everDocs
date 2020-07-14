@@ -55,28 +55,19 @@ Markdown是一种使用纯文本的方式表达文本、格式、表格、代码
 - 接着一个方括号，里面放上图片的替代文字
 - 接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上选择性的 'title' 属性的文字
 - 也可以直接引用网上的图片链接
-
+- 图片：
+```
 ![芯板](http://www.broad.com/Storage/uploads/201704/bxgxbjj_4.jpg)
-
-<iframe 
-    width=800
-    height=650
-    src="./res/2020-06-11 10-24-34.mp4"
-    frameborder="0" 
-    allowfullscreen>
+```
+- 视频：
+```
+<iframe  width=800 height=650  src="./res/2020-06-11 10-24-34.mp4" frameborder="0"  allowfullscreen>
 </iframe>
-
-
-
-
-<iframe 
-    width=800 
-    height=650 
-    src="//player.bilibili.com/player.html?aid=795925374&bvid=BV1FC4y1a7H3&cid=201194225&page=1"
-    frameborder="0" 
-    allowfullscreen>
+```
+- pdf:
+```
+<div>
+<iframe src="./res/韩国闻庆项目案例/construction organization plan （韩国闻庆项目 施工组织设计）.pdf" width="100%" height="600px" >
 </iframe>
-
-
-**********
-## 更多内容见：<https://www.runoob.com/markdown/md-tutorial.html>
+</div>
+```
