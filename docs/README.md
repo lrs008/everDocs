@@ -9,21 +9,6 @@ Markdown是一种使用纯文本的方式表达文本、格式、表格、代码
 
 本文都只介绍了一种格式的表达方式
 
-<div>
-    <iframe src="./res/2.5A平面图纸.pdf" width="100%" height="600px" >
-    </iframe>
-</div>
-<div>
-    <iframe src="./res/韩国闻庆项目案例目录.doc" width="100%" height="600px"  >
-    </iframe>
-</div>
-<div>
-    <iframe src="./res/2020-06-11 10-24-34.mp4" width="100%" height="100%"  >
-    </iframe>
-</div>
-
-
-
 *********
 ## 添加各层级标题
 使用 # 号可表示 1-6 级标题，一级标题对应一个 # 号，二级标题对应两个 # 号，见下图。 **注意#后面要跟一个空格**。
