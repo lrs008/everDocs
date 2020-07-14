@@ -13,6 +13,11 @@ Markdown是一种使用纯文本的方式表达文本、格式、表格、代码
     <iframe src="./res/2.5A平面图纸.pdf" width="100%" height="600px" >
     </iframe>
 </div>
+<div>
+    <iframe src="./res/test.png" width="100%" height="100%" >
+    </iframe>
+</div>
+
 
 *********
 ## 添加各层级标题
