@@ -10,7 +10,7 @@ Markdown是一种使用纯文本的方式表达文本、格式、表格、代码
 本文都只介绍了一种格式的表达方式
 
 <div>
-    <iframe src="./res/2.5A平面图纸.pdf" width="100%" height="900px" >
+    <iframe src="./res/2.5A平面图纸.pdf" width="100%" height="600px" >
     </iframe>
 </div>
 
