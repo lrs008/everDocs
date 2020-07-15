@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](http://broad.com/images/logo_zh.png)
 
 # 5D活楼文档 <small>0.12.6</small>
 
