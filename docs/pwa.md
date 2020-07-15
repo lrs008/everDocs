@@ -1,113 +1,48 @@
-# 离线模式
+# 知识产权规则
+## 概述
+为了保护客户、组织及供方的合法权利及相关产权信息，从而使平台的管理体系日臻完善，制定本知识产权保护规则（下称“本规则”）来保护相关知识产权。鉴于此，我们平台提醒您：
+本规则适用于我们平台的产品或服务。在使用我们平台各项产品或服务前，请您务必仔细阅读并透彻理解本规则，在确认充分理解并同意后使用相关产品或服务。一旦您开始使用我们平台各项产品或服务，即表示您已充分理解并同意本规则。如对本规则内容有任何疑问、意见或建议，您可通过平台客服与我们联系。
+## 范围
+适用全平台所有产权信息保护工作的整个过程。
+## 定义
+### 产权信息的类别：分为以下类：
+- 专利信息类；
+- 原材料资料信息类；
+- 关键制程、设备信息类；
+- 一般作业、检验标准及质量记录资料信息类；
+- 客户信息资料类；
+- 供应商及其它资料类。
+### 合作：
+合作对象	合作方式	产权物
+材料供应商	平台入驻，提供材料	材料及材料相关信息
+产品及设备供应商	平台入驻，提供产品及相关设备	产品、设备及相关信息
+个体设计师	平台入驻，提供设计服务	设计图纸及相关电子资料
+咨询单位	平台入驻，提供咨询服务	相关咨询资料
+设计单位	平台入驻，提供设计服务	设计图纸及相关电子资料
+勘察单位	平台入驻，提供勘察服务	项目勘察资料
+监理单位	平台入驻，提供监理服务	项目监理资料
+施工单位	平台入驻，提供施工服务	相关施工技术资料
 
-[Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)(PWA) 是一项融合 Web 和 Native 应用各项优点的解决方案。我们可以利用其支持离线功能的特点，让我们的网站可以在信号差或者离线状态下正常运行。
-要使用它也非常容易。
+## 作权保护声明
+本站所有内容，包括但不限于文字、照片、影像、插图、录音、影音、档案、平台画面的安排、网页设计等素材，均受到相关著作权法律的保障。本平台内容或服务仅供个人、非商业用途之使用，未经内容著作权人之授权，不得转载、公开播送或公开传输。本平台所刊载之内容，或有提供或建立相关链接供第三人使用，该等链接所指向之网页或资料，均为被链接平台所提供，相关权利为该等平台或合法权利人所有。
+## 标保护声明
+  本平台及相关链接平台使用和显示的商标、服务商标和标识（以下统称"商标"）是我们平台和其他权利人注册或使用的商标。未经事先书面许可，您不得以任何方式使用这些商标，您对本平台的使用以及本平台上的任何内容均不应被解释为授予您任何使用这些商标的权利。除非事先书面许可，您无权使用我们平台商标作为到任何我们平台有关平台的链接或其组成部分。
+## 子商务平台知识产权基本规则
+### 电子商务平台经营者应当建立知识产权保护规则，与知识产权权利人加强合作，依法保护知识产权。
+### 知识产权权利人认为其知识产权受到侵害的，有权通知电子商务平台经营者采取删除、屏蔽、断开链接、终止交易和服务等必要措施。通知应当包括构成侵权的初步证据。
+### “电子商务平台经营者接到通知后，应当及时采取必要措施，并将该通知转送平台内经营者；未及时采取必要措施的，对损害的扩大部分与平台内经营者承担连带责任。
+### “因通知错误造成平台内经营者损害的，依法承担民事责任。恶意发出错误通知，造成平台内经营者损失的，加倍承担赔偿责任。
+### 平台内经营者接到转送的通知后，可以向电子商务平台经营者提交不存在侵权行为的声明。声明应当包括不存在侵权行为的初步证据。
+### “电子商务平台经营者接到声明后，应当将该声明转送发出通知的知识产权权利人，并告知其可以向有关主管部门投诉或者向人民法院起诉。电子商务平台经营者在转送声明到达知识产权权利人后十五日内，未收到权利人已经投诉或者起诉通知的，应当及时终止所采取的措施。
+### 电子商务平台经营者应当及时公示收到的本法第四十二条、第四十三条规定的通知、声明及处理结果。
+### 电子商务平台经营者知道或者应当知道平台内经营者侵犯知识产权的，应当采取删除、屏蔽、断开链接、终止交易和服务等必要措施；未采取必要措施的，与侵权人承担连带责任。”
+## 名保护声明
+本平台的域名为xxx.com。只有我们平台可以使用xxx.com域名。该域名用来为用户提供简单直观的导航，使得用户可以快速的定位到我们的平台。我们平台将会致力于防止、识别和解决任何我们认为构成滥用域名的行为。滥用域名可以有多重形式，但通常是指域名的使用对用户造成了损害。除非获得我们平台的书面许可，禁止链接本平台任何网页或其组成元素。我们平台未对链接至本平台和本平台组成元素的所有其他平台进行审查，因此亦不对上述平台的访问和内容承担任何相关责任。
+## 纷解决规则
+若您认为我们平台上展示的商品或服务、提供的链接、相关用户评价等侵犯了您的知识产权，您可以通过以下方式解决：
+1. 通过我们的平台客服与我们取得联系，双方在友好协商的基础上解决问题；
+2. 通过向所属地法院提起诉讼解决问题。
+## 规则更新
+规则可能发生变更。未经您明确同意，我们不会限制您按照本规则所应享有的权利。我们会在专门页面上发布对本规则所做的任何变更。
 
-## 创建 serviceWorker
-这里已经整理好了一份代码，你只需要在网站根目录下创建一个 `sw.js` 文件，并粘贴下面的代码。
 
-*sw.js*
-
-```js
-/* ===========================================================
- * docsify sw.js
- * ===========================================================
- * Copyright 2016 @huxpro
- * Licensed under Apache 2.0
- * Register service worker.
- * ========================================================== */
-
-const RUNTIME = 'docsify'
-const HOSTNAME_WHITELIST = [
-  self.location.hostname,
-  'fonts.gstatic.com',
-  'fonts.googleapis.com',
-  'cdn.jsdelivr.net'
-]
-
-// The Util Function to hack URLs of intercepted requests
-const getFixedUrl = (req) => {
-  var now = Date.now()
-  var url = new URL(req.url)
-
-  // 1. fixed http URL
-  // Just keep syncing with location.protocol
-  // fetch(httpURL) belongs to active mixed content.
-  // And fetch(httpRequest) is not supported yet.
-  url.protocol = self.location.protocol
-
-  // 2. add query for caching-busting.
-  // Github Pages served with Cache-Control: max-age=600
-  // max-age on mutable content is error-prone, with SW life of bugs can even extend.
-  // Until cache mode of Fetch API landed, we have to workaround cache-busting with query string.
-  // Cache-Control-Bug: https://bugs.chromium.org/p/chromium/issues/detail?id=453190
-  if (url.hostname === self.location.hostname) {
-    url.search += (url.search ? '&' : '?') + 'cache-bust=' + now
-  }
-  return url.href
-}
-
-/**
- *  @Lifecycle Activate
- *  New one activated when old isnt being used.
- *
- *  waitUntil(): activating ====> activated
- */
-self.addEventListener('activate', event => {
-  event.waitUntil(self.clients.claim())
-})
-
-/**
- *  @Functional Fetch
- *  All network requests are being intercepted here.
- *
- *  void respondWith(Promise<Response> r)
- */
-self.addEventListener('fetch', event => {
-  // Skip some of cross-origin requests, like those for Google Analytics.
-  if (HOSTNAME_WHITELIST.indexOf(new URL(event.request.url).hostname) > -1) {
-    // Stale-while-revalidate
-    // similar to HTTP's stale-while-revalidate: https://www.mnot.net/blog/2007/12/12/stale
-    // Upgrade from Jake's to Surma's: https://gist.github.com/surma/eb441223daaedf880801ad80006389f1
-    const cached = caches.match(event.request)
-    const fixedUrl = getFixedUrl(event.request)
-    const fetched = fetch(fixedUrl, { cache: 'no-store' })
-    const fetchedCopy = fetched.then(resp => resp.clone())
-
-    // Call respondWith() with whatever we get first.
-    // If the fetch fails (e.g disconnected), wait for the cache.
-    // If there’s nothing in cache, wait for the fetch.
-    // If neither yields a response, return offline pages.
-    event.respondWith(
-      Promise.race([fetched.catch(_ => cached), cached])
-        .then(resp => resp || fetched)
-        .catch(_ => { /* eat any errors */ })
-    )
-
-    // Update the cache with the version we fetched (only for ok status)
-    event.waitUntil(
-      Promise.all([fetchedCopy, caches.open(RUNTIME)])
-        .then(([response, cache]) => response.ok && cache.put(event.request, response))
-        .catch(_ => { /* eat any errors */ })
-    )
-  }
-})
-```
-
-## 注册
-
-现在，到 `index.html` 里注册它。这个功能只能工作在一些现代浏览器上，所以我们需要加个判断。
-
-*index.html*
-
-```html
-<script>
-  if (typeof navigator.serviceWorker !== 'undefined') {
-    navigator.serviceWorker.register('sw.js')
-  }
-</script>
-```
-
-## 体验一下
-
-发布你的网站，并开始享受离线模式的魔力吧！:ghost: 当然你现在看到的 docsify 的文档网站已经支持离线模式了，你可以关掉 Wi-Fi 体验一下。
