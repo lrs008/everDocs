@@ -1,7 +1,9 @@
 <!--* markdown格式-->
 <!--  * [基本格式](quickstart.md)-->
 <!--  * [嵌入文件](more-pages.md)-->
+* [欢迎]（README.md）
 * V4.3
+
   * 建筑
   * 结构
   * 机电
@@ -30,15 +32,8 @@
 * 5D知识产权
   * [平台知识产权规则](pwa.md)
 
- <!--    
-      * [预留位置](themes.md)
-      * [预留位置](plugins.md)
+    * [预留位置](plugins.md)
     * [预留位置](ssr.md)
-    * [预留位置](markdown.md)
-    * [预留位置](language-highlight.md)
-    * [预留位置](deploy.md)
     * [预留](vue.md)
-    * [闻庆案例](configuration.md)
-    * [预留位置](themes.md)
-    * [预留位置](themes.md)
--->
+
+
