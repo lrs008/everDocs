@@ -14,5 +14,3 @@
 <!-- 背景图片 -->
 
 ![](http://evercity.bsbcore.com/assets/images/yonghengWenMin.webp)
-
-<!-- 背景色 ![color](#a0a0a0) -->
