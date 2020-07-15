@@ -18,8 +18,10 @@
       * 生产
         * [生产计划](cdn.md)
       * 运输
+        * [运输图片](plugins.md)
       * 工程
         * [总计划](markdown.md)
+        * [施工组织计划](ssr.md)
         * [施工](write-a-plugin.md)
         * [质量验收](language-highlight.md)
         * [现场照片](themes.md)
@@ -32,8 +34,8 @@
 * 5D知识产权
   * [平台知识产权规则](pwa.md)
 
-    * [预留位置](plugins.md)
-    * [预留位置](ssr.md)
+    
+    
     * [预留](vue.md)
 
 
