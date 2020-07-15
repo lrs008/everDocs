@@ -1,9 +1,8 @@
 <!--* markdown格式-->
 <!--  * [基本格式](quickstart.md)-->
 <!--  * [嵌入文件](more-pages.md)-->
-* [欢迎]（README.md）
-* V4.3
 
+* V4.3
   * 建筑
   * 结构
   * 机电
@@ -24,7 +23,7 @@
         * [施工组织计划](ssr.md)
         * [施工日记](write-a-plugin.md)
         * [质量验收](language-highlight.md)
-        * [现场照片](themes.md)
+        * [现场实景](themes.md)
       * 运营
         * [用户手册](helpers.md)
 
