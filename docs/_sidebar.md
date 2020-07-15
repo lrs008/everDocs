@@ -3,8 +3,7 @@
 <!--  * [嵌入文件](more-pages.md)-->
 
 * 闻庆项目合约
-  * [闻庆案例](configuration.md)
-  * [预留位置](themes.md)
+  * [知识产权](pwa.md)
 
 * 建筑设计
   * [结构计算](deploy.md)
@@ -33,11 +32,12 @@
   * [用户手册](helpers.md)
   * 保修承诺
   * 质保
-    * [预留位置](pwa.md)
+    
     * [预留位置](ssr.md)
     * [预留位置](markdown.md)
     * [预留位置](language-highlight.md)
     * [预留位置](deploy.md)
     * [预留](vue.md)
     * [闻庆案例](configuration.md)
+    * [预留位置](themes.md)
     * [预留位置](themes.md)
