@@ -11,26 +11,30 @@
   * 闻庆
       * [概览](vue.md)
       * 合约
-      * 设计
+      * [设计](deploy.md)
         * [结构计算](deploy.md)
         * [设计图](configuration.md)
         * [BIM模型]（模拟施工.md）
-      * 生产(cdn.md)
+      * [生产](cdn.md)
         * [生产计划](cdn.md)
         * [总计划](markdown.md)
         * [材料质检报告]（材料质检报告.md）
-      * 运输
+      * [运输](运输方案.md)
+        * [运输方案](运输方案.md)
         * [运输图片](plugins.md)
         * [通关政策](通关政策.md)
         * [报关计划](报关计划.md)
-        * [运输方案](运输方案.md)
-      * 工程
+     
+      * [工程](ssr.md)
         * [施工组织计划](ssr.md)
         * [施工日记](write-a-plugin.md)
         * [质量验收](language-highlight.md)
         * [现场实景](themes.md)
-      * 运营
+      * [运营](helpers.md)
         * [用户手册](helpers.md)
+        * [感谢信](感谢信.md)
+        * [交付清单](交付清单.md)
+        * [现场视频](现场视频.md)
 
   * 国立
 * 5D规划
