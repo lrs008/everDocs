@@ -22,7 +22,7 @@
       * 工程
         * [总计划](markdown.md)
         * [施工组织计划](ssr.md)
-        * [施工](write-a-plugin.md)
+        * [施工日记](write-a-plugin.md)
         * [质量验收](language-highlight.md)
         * [现场照片](themes.md)
       * 运营
