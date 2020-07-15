@@ -14,11 +14,11 @@
       * [设计](deploy.md)
         * [结构计算](deploy.md)
         * [设计图](configuration.md)
-        * [BIM模型]（模拟施工.md）
+        * [BIM模型](模拟施工.md)
       * [生产](cdn.md)
         * [生产计划](cdn.md)
         * [总计划](markdown.md)
-        * [材料质检报告]（材料质检报告.md）
+        * [材料质检报告](材料质检报告.md)
       * [运输](运输方案.md)
         * [运输方案](运输方案.md)
         * [运输图片](plugins.md)
