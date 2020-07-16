@@ -33,28 +33,3 @@
 
 ![发车视频](https://5docs.oss-cn-shanghai.aliyuncs.com/res/韩国闻庆项目案例/运输/发车视频.png)
 
-![装船照片 (15)](https://5docs.oss-cn-shanghai.aliyuncs.com/res/韩国闻庆项目案例/运输/装船照片 \(15\).jpg)
-
-![装船照片 (19)](https://5docs.oss-cn-shanghai.aliyuncs.com/res/韩国闻庆项目案例/运输/装船照片 \(19\).jpg)
-
-![装船照片 (2)](https://5docs.oss-cn-shanghai.aliyuncs.com/res/韩国闻庆项目案例/运输/装船照片 \(2\).jpg)
-
-![装船照片 (22)](https://5docs.oss-cn-shanghai.aliyuncs.com/res/韩国闻庆项目案例/运输/装船照片 \(22\).jpg)
-
-![装船照片 (27)](https://5docs.oss-cn-shanghai.aliyuncs.com/res/韩国闻庆项目案例/运输/装船照片 \(27\).jpg)
-
-![装船照片 (31)](https://5docs.oss-cn-shanghai.aliyuncs.com/res/韩国闻庆项目案例/运输/装船照片 \(31\).jpg)
-
-![装船照片 (33)](https://5docs.oss-cn-shanghai.aliyuncs.com/res/韩国闻庆项目案例/运输/装船照片 \(33\).jpg)
-
-![装船照片 (38)](https://5docs.oss-cn-shanghai.aliyuncs.com/res/韩国闻庆项目案例/运输/装船照片 \(38\).jpg)
-
-![装船照片 (4)](https://5docs.oss-cn-shanghai.aliyuncs.com/res/韩国闻庆项目案例/运输/装船照片 \(4\).jpg)
-
-![装船照片 (5)](https://5docs.oss-cn-shanghai.aliyuncs.com/res/韩国闻庆项目案例/运输/装船照片 \(5\).jpg)
-
-![装船照片 (56)](https://5docs.oss-cn-shanghai.aliyuncs.com/res/韩国闻庆项目案例/运输/装船照片 \(56\).jpg)
-
-![装船照片 (6)](https://5docs.oss-cn-shanghai.aliyuncs.com/res/韩国闻庆项目案例/运输/装船照片 \(6\).jpg)
-
-![装船照片 (64)](https://5docs.oss-cn-shanghai.aliyuncs.com/res/韩国闻庆项目案例/运输/装船照片 \(64\).jpg)
