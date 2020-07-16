@@ -9,13 +9,13 @@
 ```
 # 视频插入格式
 ```
-<iframe  width=800 height=650  src="./res/2020-06-11 10-24-34.mp4" frameborder="0"  allowfullscreen>
+<iframe  width=800 height=650  src="https://5docs.oss-cn-shanghai.aliyuncs.com/res/2020-06-11 10-24-34.mp4" frameborder="0"  allowfullscreen>
 </iframe>
 ```
 # pdf插入格式
 ```
 <div>
-<iframe src="./res/韩国闻庆项目案例/construction organization plan （韩国闻庆项目 施工组织设计）.pdf" width="100%" height="600px" >
+<iframe src="https://5docs.oss-cn-shanghai.aliyuncs.com/res/韩国闻庆项目案例/construction organization plan （韩国闻庆项目 施工组织设计）.pdf" width="100%" height="600px" >
 </iframe>
 </div>
 ```

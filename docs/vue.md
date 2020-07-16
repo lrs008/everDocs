@@ -22,6 +22,6 @@
 
 ## 首尔大学医院 闻庆负压隔离病房项目
 <div>
-<iframe src="./res/1.pdf" width="100%" height="900px" >
+<iframe src="https://5docs.oss-cn-shanghai.aliyuncs.com/res/1.pdf" width="100%" height="900px" >
 </iframe>
 </div>
