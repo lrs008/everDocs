@@ -1,0 +1,11 @@
+/*
+	自定义的样式,它可覆盖掉vue.css
+*/
+
+
+/* 覆盖vue.css 
+	为了解决首页无法铺满的问题 
+*/
+section.cover .cover-main {
+	margin: 0;
+}
