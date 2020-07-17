@@ -41,6 +41,13 @@
       executeScript: true,
       search: 'auto', // 默认值
       coverpage: true,  
+      tabs: {
+        persist    : true,      // default
+        sync       : true,      // default
+        theme      : 'classic', // default
+        tabComments: true,      // default
+        tabHeadings: true       // default
+      },
       plugins: [
         function(hook) {
           var footer = [
@@ -74,6 +81,8 @@
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  
   <!-- <script src="./assets/js/newScene.js"></script> -->
   <!-- <script src="action.js"></script> -->
 </body>
