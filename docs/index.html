@@ -41,6 +41,37 @@
       executeScript: true,
       search: 'auto', // 默认值
       coverpage: true
+      plugins: [
+        function(hook) {
+          var footer = [
+            '<hr/>',
+            '<footer>',
+            '<span><a href="http://evercity.bsbcore.com/">远大永恒城市</a> &copy;2019.</span>',
+            '<span>Proudly published with <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a>.</span>',
+            '</footer>'
+          ].join('');
+
+          hook.afterEach(function(html) {
+            return html + footer;
+          });
+        }
+        function(hook, vm) {
+          hook.beforeEach(function(html) {
+            var url =
+              'https://github.com/BSBCore/everDocs/blob/master/docs/' +
+              vm.route.file;
+            var editHtml = '[EDIT DOCUMENT](' + url + ')\n';
+
+            return (
+              editHtml +
+              html +
+              '\n----\n' +
+              'Last modified {docsify-updated} ' +
+              editHtml
+            );
+          });
+        }
+      ]
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
