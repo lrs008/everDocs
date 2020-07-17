@@ -61,14 +61,11 @@
             var url =
               'https://github.com/BSBCore/everDocs/blob/master/docs/' +
               vm.route.file;
-            var editHtml = '[EDIT DOCUMENT](' + url + ')\n';
+            var editHtml = '[编辑文档](' + url + ')\n';
 
             return (
               editHtml +
-              html +
-              '\n----\n' +
-              'Last modified {docsify-updated} ' +
-              editHtml
+              html
             );
           });
         }
