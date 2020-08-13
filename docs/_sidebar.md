@@ -2,11 +2,10 @@
 <!--  * [基本格式](quickstart.md)-->
 <!--  * [嵌入文件](more-pages.md)-->
 <!--  注意:以下内容不能有空行,不然siderbar折叠会有问题! -->
-
-* [5D建筑白皮书](5D建筑白皮书.md)
 * 5d.my
-  * [主页](5d_my.md)
-    * [工程技术服务](5d_my_工程技术服务.md)
+  * [5D建筑](5d_my.md)
+  * [工程技术服务](5d_my_工程技术服务.md)
+* [5D建筑白皮书](5D建筑白皮书.md)
 * 产品详情-Townhouse
   * [建筑](Townhouse_建筑.md)
   * [工程](Townhouse_工程.md)
