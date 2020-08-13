@@ -1,5 +1,6 @@
 <div> 
-    <img src='./assets/images/5DdocBackGroud.webp' style="position:absolute; left:0; top:0; z-index: 0;" />
+    <!-- <img src='./assets/images/5DdocBackGroud.webp' style="position:absolute; left:0; top:0; z-index: 0;" /> -->
+    <img src='https://5docs.oss-cn-shanghai.aliyuncs.com/res/5DdocBackGroud.webp' style="position:absolute; left:0; top:0; z-index: 0;" />
     <div style="position:absolute; left: 16vw; top:18vw; color: white;font-size: 1vw;">
         <a href="http://5ds.bsbcore.com/#/5d_my">5D.my</a> <br><br>
         <a href="http://5ds.bsbcore.com/#/5D%E5%BB%BA%E7%AD%91%E7%99%BD%E7%9A%AE%E4%B9%A6">5D建筑白皮书</a> <br><br>
