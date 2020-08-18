@@ -50,14 +50,14 @@
         * [交付清单](交付清单.md)
         * [现场视频](现场视频.md)
 *  公司介绍
-  * [文本介绍](company_introduction.md)
+  * [公司介绍](company_introduction.md)
   * 视频
     * [芯选动画](company_introduction_video_xixuan.md)
-    * [远大城](company_introduction_video_broadtown.md)
+    * [公司视频](company_introduction_video_broadtown.md)
 *  芯板
   * [远大芯板+——+建设永恒文明](bcore_slab.md)
 *  5D建筑
-  * [文本](bcore_slab.md)
+  * [5D建筑](bcore_slab.md)
   * [5D活楼图纸及结构](bcore_slab.md)
   * [Townhouse](bcore_slab.md)
   * 项目案例
@@ -96,7 +96,7 @@
         * [交付清单](交付清单.md)
         * [现场视频](现场视频.md)
 *  5D网
- * [文字介绍（柯布文本）](bcore_slab.md)
+ * [柯布机](bcore_slab.md)
  * [5D基站](bcore_slab.md)
 *  5D sim
  * [管理世界](bcore_slab.md)
