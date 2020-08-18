@@ -57,9 +57,9 @@
 *  芯板
   * [远大芯板+——+建设永恒文明](bcore_slab.md)
 *  5D建筑
-  * [5D建筑](bcore_slab.md)
-  * [5D活楼图纸及结构](bcore_slab.md)
-  * [Townhouse](bcore_slab.md)
+  * [5D建筑](5D建筑.md)
+  * [5D活楼图纸及结构](5D活楼图纸及结构.md)
+  * [Townhouse](Townhouse.md)
   * 项目案例
     * 闻庆
       * [概览](闻庆概览.md)
@@ -96,13 +96,11 @@
         * [交付清单](交付清单.md)
         * [现场视频](现场视频.md)
 *  5D网
- * [柯布机](bcore_slab.md)
- * [5D基站](bcore_slab.md)
+ * [柯布机](柯布机.md)
+ * [5D基站](5D基站.md)
 *  5D sim
- * [管理世界](bcore_slab.md)
- * [建造模式](bcore_slab.md)
- * [格子](bcore_slab.md)
- * [物品](bcore_slab.md)
+  * [5D sim](芯选.md)
+
  
   
 
