@@ -55,7 +55,7 @@
     * [芯选动画](company_introduction_video_xixuan.md)
     * [公司视频](company_introduction_video_broadtown.md)
 *  芯板
-  * [远大芯板+——+建设永恒文明](bcore_slab.md)
+  * [远大芯板 建设永恒文明](bcore_slab.md)
 *  5D建筑
   * [5D建筑](5D建筑.md)
   * [5D活楼图纸及结构](5D活楼图纸及结构.md)
@@ -98,8 +98,7 @@
 *  5D网
  * [柯布机](柯布机.md)
  * [5D基站](5D基站.md)
-*  5D sim
-  * [5D sim](芯选.md)
+* [5D sim](芯选.md)
 
  
   
