@@ -59,7 +59,8 @@
 *  5D建筑
   * [5D建筑](5D建筑.md)
   * [5D活楼图纸及结构](5D活楼图纸及结构.md)
-  * [Townhouse3D模型](Townhouse.md)
+  <!-- * [Townhouse3D模型](Townhouse.md) -->
+  * [Townhouse](Townhouse.md)
   * 项目案例
     * 闻庆
       * [概览](闻庆概览.md)
