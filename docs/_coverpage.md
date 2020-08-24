@@ -13,6 +13,7 @@ section.cover{
         <a href="http://5ds.bsbcore.com/#/5D建筑">5D建筑</a> <br> <br>
         <a href="http://5ds.bsbcore.com/#/柯布机">5D网</a> <br> <br>
         <a href="http://5ds.bsbcore.com/#/芯选">5D sim</a> <br> <br>
+        <a href="http://5ds.bsbcore.com/#/NPI_Room">NPI Room</a> <br> <br>
         <a href="http://5ds.bsbcore.com/#/联系我们">联系我们</a> <br> <br>
     </div>
     </div>
