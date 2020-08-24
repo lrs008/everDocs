@@ -575,8 +575,8 @@ section.cover {
 	background-position: 50%;
 	background-repeat: no-repeat;
 	background-size: cover;
-	/* height: 100vh; */
-	height: 57.85vw;
+	height: 100vh;
+	height: 100%;
 	width: 100vw;
 	display: none
 }
