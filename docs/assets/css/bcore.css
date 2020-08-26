@@ -30,6 +30,8 @@ section.cover .cover-main {
 }
 .navbar a{
 	font-size: 18px;
+	display: block;
+	margin-bottom: 10px;
 }
 .banner{
 	width: 100%;
@@ -83,5 +85,23 @@ section.cover .cover-main {
 	}
 	.navbar a{
 		font-size: 16px;
+	}
+}
+@media screen and (max-width:1200px){
+	.banner{
+		height: 56.16vw;
+		background-size: 100% 100%;
+	}
+	.navCover{
+		width: 59.72vw;
+		height: 56.16vw;
+	}
+	.navbar{
+		margin-right: 7.2vw;
+		margin-top: 24.6vw;
+	}
+	.navbar a{
+		font-size: 0.936vw;
+		margin-bottom: 0.52vw;
 	}
 }
