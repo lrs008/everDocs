@@ -2,25 +2,79 @@
     section.cover {
         height: auto;
     }
+    main.hidden{
+        display: block;
+    }
+    main{
+        z-index: 1001;
+        height: auto;
+    }
+    .sidebar-toggle{
+        display: none;
+    }
+    .sidebar{
+        position: fixed;
+        background: rgba(255, 255, 255, 0);
+        border-right: none;
+        top: 354px;
+        left: 217px;
+        bottom: auto;
+    }
+    .results-panel{
+        background: #fff;
+    }
+    .search{
+        border-bottom: none;
+    }
+    .content{
+        display: none;
+    }
+    .sidebar-nav{
+        display: none;
+    }
+@media screen and (max-width: 1280px) {
+    .sidebar{
+        top: 321px;
+        left: 200px;
+        width: 250px;
+    }
+}
+@media screen and (min-width: 1281px) and (max-width: 1366px) {
+    .sidebar{
+        top: 321px;
+        left: 200px;
+        width: 250px;
+    }
+}
+@media screen and (min-width: 1367px) and (max-width: 1440px) {
+    .sidebar{
+        top: 321px;
+        left: 200px;
+        width: 250px;
+    }
+}
+@media screen and (min-width: 1441px) and (max-width: 1660px) {
+    .sidebar{
+        top: 321px;
+        left: 200px;
+        width: 250px;
+    }
+}
+@media screen and (max-width:1200px){
+    .sidebar{
+        top: 24.7vw;
+        left: 14.4vw;
+        width: 22vw;
+    }
+    .search input{
+        line-height: 2.872vw;
+        font-size: 0.728vw;
+    }
+}
 </style>
 <div class="banner">
     <div class="navCover">
         <div class="navbar">
-            <aside>
-                <div class="search">
-                    <div class="input-wrap">
-                        <input type="search" value="" aria-label="Search text" placeholder="Type to search">
-                        <div class="clear-button">
-                            <svg width="26" height="24">
-                                <circle cx="12" cy="12" r="11" fill="#ccc"></circle>
-                                <path stroke="white" stroke-width="2" d="M8.25,8.25,15.75,15.75"></path>
-                                <path stroke="white" stroke-width="2" d="M8.25,15.75,15.75,8.25"></path>
-                            </svg>
-                        </div>
-                    </div>
-                    <div class="results-panel"></div>
-                </div>
-            </aside>
             <a href="http://5ds.bsbcore.com/#/company_introduction">公司介绍</a>
             <a href="http://5ds.bsbcore.com/#/bcore_slab">芯板</a>
             <a href="http://5ds.bsbcore.com/#/5D建筑">5D建筑</a>
