@@ -150,7 +150,7 @@
         var a = c(e),
             s = "";
         a.forEach(function(e) {
-            s += '<div class="matching-post">\n<a href="' + e.url + '">\n<h2>' + e.title + "</h2>\n<p>" + e.content + "</p>\n</a>\n</div>"
+            s += '<div class="matching-post">\n<a onclick="jump()" href="' + e.url + '">\n<h2>' + e.title + "</h2>\n<p>" + e.content + "</p>\n</a>\n</div>"
         }), t.classList.add("show"), r.classList.add("show"), t.innerHTML = s || '<p class="empty">' + m + "</p>", f.hideOtherSidebarContent && (i.classList.add("hide"), o.classList.add("hide"))
     }
 
