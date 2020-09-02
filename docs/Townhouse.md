@@ -11,5 +11,7 @@
 </div>
 <!-- <iframe width=640 height=480 src="https://skfb.ly/6TTBF" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe> -->
 
+### BIM — 5D townhouse
+<a href="https://5docs.oss-cn-shanghai.aliyuncs.com/res/5D建筑/BIM_5D townhouse_(revit2016).zip">BIM — 5D townhouse</a>
 
 <!-- <a href="https://skfb.ly/6TTBF">townhouse点击查看</a> -->
